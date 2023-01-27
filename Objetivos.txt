@@ -1,0 +1,66 @@
+Semana 1 Sesión 3 
+
+1) Conocer NodeJs 
+2) Entender que es un servidor 
+3) Tipos de Servidores 
+4) Hola Mundo de NodeJs
+
+
+Semana 1 Sesión 4
+
+1) Mas Sintaxis de Node JS
+2) Ejercicio Practico
+
+
+Tarea:
+1) Desarrollar un Servidor en Node Js que reciba de parametro el nombre de usuario, 
+el servicio debe responderle al cliente un mensaje de bienvenida con el nombre de usuario. 
+
+2) Desarrollar un Servidor en Node Js que reciba un numero, este debe responder 
+con el doble del numero y el triple del mismo. 
+
+3) Desarrollr un Servidor en Node Js que reciba dos numeros, 
+este debe responder la multiplicacion de ambos y la division de ambos.
+
+ejemplo
+http://localhost?num1=7&num2=1&num3=1&num4=hola
+
+
+Objetivos S2 S1 
+
+1) Repaso de MySQL
+2) Conectar NodeJs con MySQL 
+3) Servicio de GET / Inserción
+4) Formato JSON
+
+
+Objetivos S2 S2
+
+1) Servicios GET / Seleccion 
+2) Retornar datos en JSON
+
+
+Ejercicio de Clase 
+1) Servicio de Seleccion e Inserción de la tabla Telefonos
+
+
+Objetivos S2 S3
+1) Crear web services de más de una tabla 
+2) Servicios GET / Actualizacion 
+3) Servicios GET / Borrado 
+
+
+Web Service CRUD 
+C =  CREATE 
+R = READ
+U = UPDATE
+D = DELETE
+
+Ejercicio:
+
+Una biblioteca permite el registro de Libros: id, nombre, genero, fecha_lanzamineto, autor. 
+Tambien puede registrar los alumnos de la universidad: numero_cuenta, nombre, apellido. 
+Los alumnos pueden realizar prestamos de libros (n, n): id_prestamo, id_libro, numero_cuenta, fecha_prestamo.
+
+Desarrollar los servicios CRUD para resolver por medio de back end 
+el anterior problema
